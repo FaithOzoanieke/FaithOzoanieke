@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FaithOzoanieke
 - 👀 I’m interested in solving real time problem.
-- 🌱 I’m currently learning programming with C.
 - 💞️ I’m looking to collaborate on blockchain projects.
 - 📫 How to reach me: faithozoanieke@gmail.com
 
